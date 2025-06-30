@@ -1,4 +1,4 @@
-### Repository created for programming, learning, and development in the field of Data Engineering.
+### This repository documents my learning and development journey in the field of Data Engineering, including practical projects and experiments.
 ![Apache](https://img.shields.io/badge/Apache-0d1117?style=for-the-badge&logo=apache&logoColor=25fafe)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-0d1117?style=for-the-badge&logo=Apache%20Airflow&logoColor=25fafe)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-0d1117?style=for-the-badge&logo=apachespark&logoColor=25fafe)
@@ -14,10 +14,12 @@
 ![Apache Ant](https://img.shields.io/badge/Apache%20Ant-0d1117?style=for-the-badge&logo=Apache%20Ant&logoColor=25fafe)
 ![Gunicorn](https://img.shields.io/badge/gunicorn-0d1117.svg?style=for-the-badge&logo=gunicorn&logoColor=25fafe)
 
-Repository created for academic purposes to document my learning process in Data Engineering, a discipline focused on the collection, transformation, storage, and orchestration of large-scale data pipelines. This field plays a key role in modern data architecture, enabling real-time and batch processing, and supporting analytics and machine learning workflows.
-The main goal is to gradually explore both foundational and advanced concepts of Data Engineering, including batch and streaming pipelines, data orchestration, data storage in distributed systems, and integrations with modern data tools. This repository includes tools such as Apache Spark, Kafka, Airflow, Flink, Hadoop, Hive, and more, aiming to create hands-on projects, scripts, notebooks, and real-world use cases. It will serve as a base for experiments, documentation, and professional growth in scalable data platforms.
-<br> 
-<br>
-<br/>
-Repositório criado com fins acadêmicos para documentar meu processo de aprendizado em Engenharia de Dados, área voltada para a coleta, transformação, armazenamento e orquestração de pipelines de dados em larga escala. Essa disciplina é essencial para arquiteturas modernas de dados, permitindo processamento em tempo real ou em lote, e suportando análises e fluxos de machine learning.
-O objetivo principal é explorar gradualmente os conceitos fundamentais e avançados da Engenharia de Dados, como pipelines batch e streaming, orquestração, armazenamento distribuído e integração com ferramentas modernas de dados. Este repositório abrange tecnologias como Apache Spark, Kafka, Airflow, Flink, Hadoop, Hive, entre outras, com foco em projetos práticos, scripts, notebooks e casos reais. Servirá como base para experimentos, anotações e crescimento profissional em plataformas de dados escaláveis.
+---
+This repository was created for academic purposes to document my learning journey in Data Engineering — a discipline focused on the design, implementation, and maintenance of scalable data pipelines for collecting, transforming, storing, and orchestrating structured and unstructured data. This field plays a central role in modern data platforms, supporting real-time and batch processing, analytics, and machine learning workflows.
+
+The main goal is to progressively explore foundational and advanced concepts in Data Engineering, such as distributed processing, data orchestration, streaming architectures, pipeline design, and integration with modern tools. Technologies covered include Apache Spark, Kafka, Airflow, Flink, Hadoop, Hive, and more. This space serves as a foundation for notes, hands-on exercises, experiments, and real-world projects applicable in academic and professional environments involving data-intensive solutions.
+
+---
+Este repositório foi criado com fins acadêmicos para documentar meu processo de aprendizado em Engenharia de Dados — uma disciplina voltada ao design, implementação e manutenção de pipelines escaláveis para coleta, transformação, armazenamento e orquestração de dados estruturados e não estruturados. Essa área é essencial para plataformas modernas de dados, suportando processamento em tempo real e em lote, análises e fluxos de machine learning.
+
+O objetivo principal é explorar progressivamente conceitos fundamentais e avançados da Engenharia de Dados, como processamento distribuído, orquestração de dados, arquiteturas de streaming, design de pipelines e integração com ferramentas modernas. Serão abordadas tecnologias como Apache Spark, Kafka, Airflow, Flink, Hadoop, Hive e outras. Este espaço servirá como base para anotações, exercícios práticos, experimentos e projetos aplicáveis a contextos acadêmicos e profissionais envolvendo soluções intensivas em dados.
